@@ -1,5 +1,7 @@
 # MemoizedOnFrozen
 
+[![Build Status](https://travis-ci.org/iliabylich/memoized_on_frozen.svg?branch=master)](https://travis-ci.org/iliabylich/memoized_on_frozen)
+
 Immutable objects are a good thing, but they can't use memoization:
 
 ``` ruby
