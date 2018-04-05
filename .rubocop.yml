@@ -1,0 +1,7 @@
+Lint/UselessAssignment:
+  Exclude:
+    - 'spec/memoized_on_frozen_spec.rb'
+
+Naming/UncommunicativeMethodParamName:
+  Exclude:
+    - 'spec/support/rectangle.rb'
