@@ -5,3 +5,8 @@ Lint/UselessAssignment:
 Naming/UncommunicativeMethodParamName:
   Exclude:
     - 'spec/support/rectangle.rb'
+
+AllCops:
+  Exclude:
+    - 'example.rb'
+    - 'vendor/**/*'
